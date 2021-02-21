@@ -11,22 +11,13 @@ I'm passionate about improving the lives of others through design and am constan
 ## :computer: What of personal projects.
 Yes of course I do have couple of personal projects I have worked, I have loads of them in pipeline :sob: hopefully I find time to finish them.
 
-UI Design - [Wootlab](https://www.figma.com/proto/h5sbEGwj5SdUE81bJiDL3t/Wootlab?node-id=104%3A21&viewport=-2943%2C192%2C0.20537690818309784&scaling=scale-down-width)
-UI Design - [DrConsult](https://www.figma.com/proto/bxdrCid8OEVwWloJG8EUud/DrConsult-Copy?node-id=249%3A0&viewport=167%2C367%2C0.04404543340206146&scaling=scale-down)
-Frontend Development - [Exgis](https://exgis.ng/)
+- UI Design - [Wootlab](https://www.figma.com/proto/h5sbEGwj5SdUE81bJiDL3t/Wootlab?node-id=104%3A21&viewport=-2943%2C192%2C0.20537690818309784&scaling=scale-down-width)
+- UI Design - [DrConsult](https://www.figma.com/proto/bxdrCid8OEVwWloJG8EUud/DrConsult-Copy?node-id=249%3A0&viewport=167%2C367%2C0.04404543340206146&scaling=scale-down)
+- Frontend Development - [Exgis](https://exgis.ng/)
+
+## :iphone: Let's get in touch already
+- [Twitter - @victochurcill](https://twitter.com/VictoChurchill)
+- [Website - victorchurchill.design](https//victorchurchill.design)
+- [Resume](https://drive.google.com/file/d/15uuvV5m1YjEioxsSeDUrrhAP56GJ0nxC/view?usp=sharing)
 
 
-<!--
-**panveel/Panveel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
