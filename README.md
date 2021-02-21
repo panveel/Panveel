@@ -20,4 +20,4 @@ Sure I do have couple of personal projects I have worked on, I have loads of the
 - [Website - victorchurchill.design](https//victorchurchill.design)
 - [Resume](https://drive.google.com/file/d/15uuvV5m1YjEioxsSeDUrrhAP56GJ0nxC/view?usp=sharing)
 
-![image](https://user-images.githubusercontent.com/37630394/108613316-ee29e380-73f0-11eb-875e-e5014e0d288c.png)
+![image](https://user-images.githubusercontent.com/37630394/108613478-c5a2e900-73f2-11eb-9044-0e97939dc43d.png)
