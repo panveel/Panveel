@@ -6,10 +6,10 @@
 
 
 ## 🤔 How do I know that?
-I'm passionate about improving the lives of others through design and am constantly looking to learn new things everyday.:books: :book: I have continually conceptualize and  help businesses and non-profits expand their capacity for impact 🚀 Some of the brands I include [Desevens Digital](https://desevens.digital/), [nHub Foundation](http://nhubnigeria.com/) as well as design solid user centric systems at [eHealth Africa](https://www.ehealthafrica.org/)
+I'm passionate about improving the lives of others through design and am constantly looking to learn new things everyday.:books: :book: I have continually conceptualize and  help businesses and non-profits expand their capacity for impact 🚀 Some of the brands I worked for include [Desevens Digital](https://desevens.digital/), [nHub Foundation](http://nhubnigeria.com/) as well as design solid user centric systems at [eHealth Africa](https://www.ehealthafrica.org/)
 
 ## :computer: What of personal projects.
-Yes of course I do have couple of personal projects I have worked, I have loads of them in pipeline :sob: hopefully I find time to finish them.
+Sure I do have couple of personal projects I have worked on, I have loads of them in pipeline :sob: hopefully I find time to finish them.
 
 - UI Design - [Wootlab](https://www.figma.com/proto/h5sbEGwj5SdUE81bJiDL3t/Wootlab?node-id=104%3A21&viewport=-2943%2C192%2C0.20537690818309784&scaling=scale-down-width)
 - UI Design - [DrConsult](https://www.figma.com/proto/bxdrCid8OEVwWloJG8EUud/DrConsult-Copy?node-id=249%3A0&viewport=167%2C367%2C0.04404543340206146&scaling=scale-down)
@@ -20,4 +20,4 @@ Yes of course I do have couple of personal projects I have worked, I have loads 
 - [Website - victorchurchill.design](https//victorchurchill.design)
 - [Resume](https://drive.google.com/file/d/15uuvV5m1YjEioxsSeDUrrhAP56GJ0nxC/view?usp=sharing)
 
-
+![image](https://user-images.githubusercontent.com/37630394/108613316-ee29e380-73f0-11eb-875e-e5014e0d288c.png)
