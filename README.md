@@ -16,7 +16,7 @@ Sure I do have couple of personal projects I have worked on, I have loads of the
 - Frontend Development - [Exgis](https://exgis.ng/)
 
 ## :iphone: Let's get in touch already
-- [Twitter - @victochurcill](https://twitter.com/VictoChurchill)
+- [Twitter - @victochurchill](https://twitter.com/VictoChurchill)
 - [Website - victorchurchill.design](https//victorchurchill.design)
 - [Resume](https://drive.google.com/file/d/15uuvV5m1YjEioxsSeDUrrhAP56GJ0nxC/view?usp=sharing)
 
