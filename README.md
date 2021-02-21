@@ -1,3 +1,9 @@
+## Victor Churchill -- UI/UX Designer / UX Developer :rocket:
+
+### Who is this guy?
+
+👋  Hi there I'm a user experience advocate and expert in delivering end-to-end UX/UI design across digital products. I'm passionate about improving the lives of others through design and am constantly looking to learn new things everyday. I am well experienced at translating innovative ideas into sketches, design and products with the best of user experiences as well as creating reusable design system components with react.
+
 ### Hi there 👋
 
 <!--
