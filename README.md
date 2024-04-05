@@ -12,7 +12,7 @@ I'm passionate about improving the lives of others through design and am constan
 Sure I do have couple of personal projects I have worked on, I have loads of them in pipeline :sob: hopefully I find time to finish them.
 
 - UI Design - [Wootlab](https://www.figma.com/proto/h5sbEGwj5SdUE81bJiDL3t/Wootlab?node-id=104%3A21&viewport=-2943%2C192%2C0.20537690818309784&scaling=scale-down-width)
-- UI Design - [DrConsult](https://www.figma.com/proto/bxdrCid8OEVwWloJG8EUud/DrConsult-Copy?node-id=249%3A0&viewport=167%2C367%2C0.04404543340206146&scaling=scale-down)
+- UI Design - [DrConsult]
 - Frontend Development - [Map Composer](https://mapping.ehealthafrica.org/)
 
 ## :iphone: Let's get in touch already
