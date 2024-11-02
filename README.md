@@ -17,7 +17,7 @@ Sure I do have couple of personal projects I have worked on, I have loads of the
 
 ## :iphone: Let's get in touch already
 - [Twitter - @victochurchill](https://twitter.com/VictoChurchill)
-- [Website - victorchurchill.design](https//victorchurchill.design)
+- [Website - victorchurchill.design](https://victorchurchill.design)
 - [Resume](https://drive.google.com/file/d/15uuvV5m1YjEioxsSeDUrrhAP56GJ0nxC/view?usp=sharing)
 
 ![image](https://user-images.githubusercontent.com/37630394/108613478-c5a2e900-73f2-11eb-9044-0e97939dc43d.png)
